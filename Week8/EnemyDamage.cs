@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Put Script on Player and set enemy tags to Death
 public class EnemyDamage : MonoBehaviour
 {
 
