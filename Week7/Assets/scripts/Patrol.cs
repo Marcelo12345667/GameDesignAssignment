@@ -15,7 +15,7 @@ public class Patrol : MonoBehaviour
     // runs every frame
     void FixedUpdate()
     {
-        LayerMask floor = LayerMask.GetMask("floor");
+        LayerMask floor = LayerMask.GetMask("Ground");
         
     }
     void Update()
